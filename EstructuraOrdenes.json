@@ -1,0 +1,23 @@
+{
+    "OrderID":12345,
+    "Address":"Calle Morelos 42, San Isidro Monjas, Santa Cruz Xoxocotlan, Oaxaca",
+    "Status":"Procesando pago",
+    "Articles":[
+        {   
+            "Name":"Silla ergonomica",
+            "Quantity":4,
+            "Dangerous":true
+        },
+        {
+            "Name":"Escritorio",
+            "Quantity":4,
+            "Dangerous":true
+        },
+        {
+            "Name":"Archivero",
+            "Quantity":1,
+            "Dangerous":false
+        }
+
+    ]
+}
